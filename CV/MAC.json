@@ -8,11 +8,8 @@
     "profile": {
       "name": "Carlos",
       "surnames": "Escuriola",
-      "title": "",
-      "description": "Hola! Estudié Informática y cuando acabé hice Licenciatura en Documentación (porque me gustaba el mundillo de la arquitectura de la información y había buenos profesores) en la Universidad Politécnica de València, long time ago. Haciendo proyectos de investigación en una beca sobre portales educativos basados en CMS conocí Drupal y eso marcó mi futuro profesional.\n\nEmpecé migrando la web de Peli Products a Drupal (versión 5), web multiidioma con sincronización de productos con una base de datos externa. Más tarde trabajé en una consultora (Amaris) y uno de los proyectos fue hacer la migración de la web de Peli Products a Drupal 6. Aparte de eso hice mantenimiento de múltiples plataformas Drupal de proyectos de la comisión europea. Allí, aparte de aprender Drupal de verdad, me empecé a interesar por el mundo Agile a raíz de en un proyecto que hice con Amaris para Telefónica I+D.\n\nDe Amaris salté a lo que es mi experiencia profesional más relevante, que son los 9 años que llevo en la empresa donde estoy ahora, Talent Clue (antes SNTalent). Allí he hecho de todo, lo que ha hecho falta.\n\nTuve la suerte de ser el líder del equipo de desarrolladores en el momento en se creó el producto, un ATS y por aquel entonces no se conocían muchos ATS, no teníamos competencia y había mucha interacción entre nosotros desarrolladores y los clientes para saber qué iba a ser lo siguiente a desarrollar, y sinceramente disfrutamos mucho todos de esa etapa. Durante ese tiempo implanté SCRUM (desde las trincheras) en el equipo y dada la buena repercusión que tuvo y como me motivaba mucho hice un Postgrado en metodologías Ágiles en LaSalle (https://www.salleurl.edu/es/estudios/postgrado-en-metodos-agiles). \n\nCon el crecimiento de la empresa y del equipo, también se abrió el desarrollo a otras tecnologías, aprendimos DDD, TDD, y nos pusimos las pilas con PHP, se implantó Jira,e intentamos desacoplar Drupal de los nuevos desarrollos, que también está siendo una experiencia interesante y el producto creció bastante. Implantamos Docker y la subida de ficheros a la nube (Drupal con sistema de ficheros S3), en la que participé activamente y en general movimos casi toda la infraestructura a Google Cloud. \n\nTambién pasé por el equipo de producto, primero como enlace del equipo técnico y luego product owner, aprovechando esa etapa para aportar mi vena más agilista, buscando mejora continua y un poco implantar una cultura ágil de verdad en la empresa. Pero fue una época de poca voluntad de transformación y de mucho aprendizaje en la parte técnica así que volví a las trincheras a aprender.\n\nAllí pasé como líder técnico de un par de equipos y en estos dos últimos años, involucré a un par de personas de otros equipos y pensando que era buen momento para volver a intentar a hacer un movimiento ágil dentro de la empresa y de forma paralela a mi trabajo de desarrollador, monté el equipo “TC-Agile” y empezamos a ir a conferencias, escuchar podcast, leer bonilistas y nos planteamos como meta una transformación ágil de la empresa. Esta vez sí que nos dijeron que no nos pusiéramos límites....\n\nLuego vino el coronavirus y lo envió todo al traste. \n\nDe la época de confinamiento, con los niños en casa fue una etapa de transformación interior, aprender a trabajar en remoto e intentar que no se notara que estábamos en remoto. Muy complicado. Encontré herramientas como Parabol para las retrospectivas, slack a todas horas, meets… Pero no estamos consiguiendo remontar por culpa de las secuelas del coronavirus\n\nY aquí estoy, enamorado de Talent Clue, del proyecto y de mis compañeros, somos una familia que lleva junta prácticamente 6-7 años pero nos están pintando un futuro muy negro y aunque mi inteción es la de no abandonar el barco mientras se hunde, si al final se acaba hundiendo no nos quedará otra que nadar hasta otro barco.\n\nMe gustaría volver a encontrar un producto por hacer y un equipo cercano y volver a vivir esta aventura y si es en Drupal mejor. El mundo Agile también me llama, combinar ambas cosas sería divertido. Para el apartado de sueños dejo que de pequeño quería ser “informático” para hacer videojuegos, y alguna idea intenté en mi época, antes de que existieran los smartphones.  Me gusta también la formación y algún día lejano no me importaría dar clases en alguna universidad y compartir lo vivido.\n\nFuera de mi experiencia profesiona, tengo dos hijos (niña y niño), estoy aprendiendo a tocar el ukelele, cosa que quería hacer desde que era un niño, salgo a correr todos los domingos, me encantan los room escapes (he diseñado 3, uno de ellos involucré a toda la oficina, CEO incluida en una invasión zombie), soy muy fan de los juegos de mesa y soy del Valencia C.F (qué se le va a hacer) aunque vivo en Viladecans (Barcelona)",
-      "location": {
-        "notes": ""
-      }
+      "title": "Title",
+      "description": "Hola! Estudié Informática y cuando acabé hice Licenciatura en Documentación (porque me gustaba el mundillo de la arquitectura de la información y había buenos profesores) en la Universidad Politécnica de València, long time ago. Haciendo proyectos de investigación en una beca sobre portales educativos basados en CMS conocí Drupal y eso marcó mi futuro profesional.\n\nEmpecé migrando la web de Peli Products a Drupal (versión 5), web multiidioma con sincronización de productos con una base de datos externa. Más tarde trabajé en una consultora (Amaris) y uno de los proyectos fue hacer la migración de la web de Peli Products a Drupal 6. Aparte de eso hice mantenimiento de múltiples plataformas Drupal de proyectos de la comisión europea. Allí, aparte de aprender Drupal de verdad, me empecé a interesar por el mundo Agile a raíz de en un proyecto que hice con Amaris para Telefónica I+D.\n\nDe Amaris salté a lo que es mi experiencia profesional más relevante, que son los 9 años que llevo en la empresa donde estoy ahora, Talent Clue (antes SNTalent). Allí he hecho de todo, lo que ha hecho falta.\n\nTuve la suerte de ser el líder del equipo de desarrolladores en el momento en se creó el producto, un ATS y por aquel entonces no se conocían muchos ATS, no teníamos competencia y había mucha interacción entre nosotros desarrolladores y los clientes para saber qué iba a ser lo siguiente a desarrollar, y sinceramente disfrutamos mucho todos de esa etapa. Durante ese tiempo implanté SCRUM (desde las trincheras) en el equipo y dada la buena repercusión que tuvo y como me motivaba mucho hice un Postgrado en metodologías Ágiles en LaSalle (https://www.salleurl.edu/es/estudios/postgrado-en-metodos-agiles). \n\nCon el crecimiento de la empresa y del equipo, también se abrió el desarrollo a otras tecnologías, aprendimos DDD, TDD, y nos pusimos las pilas con PHP, se implantó Jira,e intentamos desacoplar Drupal de los nuevos desarrollos, que también está siendo una experiencia interesante y el producto creció bastante. Implantamos Docker y la subida de ficheros a la nube (Drupal con sistema de ficheros S3), en la que participé activamente y en general movimos casi toda la infraestructura a Google Cloud. \n\nTambién pasé por el equipo de producto, primero como enlace del equipo técnico y luego product owner, aprovechando esa etapa para aportar mi vena más agilista, buscando mejora continua y un poco implantar una cultura ágil de verdad en la empresa. Pero fue una época de poca voluntad de transformación y de mucho aprendizaje en la parte técnica así que volví a las trincheras a aprender.\n\nAllí pasé como líder técnico de un par de equipos y en estos dos últimos años, involucré a un par de personas de otros equipos y pensando que era buen momento para volver a intentar a hacer un movimiento ágil dentro de la empresa y de forma paralela a mi trabajo de desarrollador, monté el equipo “TC-Agile” y empezamos a ir a conferencias, escuchar podcast, leer bonilistas y nos planteamos como meta una transformación ágil de la empresa. Esta vez sí que nos dijeron que no nos pusiéramos límites....\n\nLuego vino el coronavirus y lo envió todo al traste. \n\nDe la época de confinamiento, con los niños en casa fue una etapa de transformación interior, aprender a trabajar en remoto e intentar que no se notara que estábamos en remoto. Muy complicado. Encontré herramientas como Parabol para las retrospectivas, slack a todas horas, meets… Pero no estamos consiguiendo remontar por culpa de las secuelas del coronavirus\n\nY aquí estoy, enamorado de Talent Clue, del proyecto y de mis compañeros, somos una familia que lleva junta prácticamente 6-7 años pero nos están pintando un futuro muy negro y aunque mi inteción es la de no abandonar el barco mientras se hunde, si al final se acaba hundiendo no nos quedará otra que nadar hasta otro barco.\n\nMe gustaría volver a encontrar un producto por hacer y un equipo cercano y volver a vivir esta aventura y si es en Drupal mejor. El mundo Agile también me llama, combinar ambas cosas sería divertido. Para el apartado de sueños dejo que de pequeño quería ser “informático” para hacer videojuegos, y alguna idea intenté en mi época, antes de que existieran los smartphones.  Me gusta también la formación y algún día lejano no me importaría dar clases en alguna universidad y compartir lo vivido.\n\nFuera de mi experiencia profesiona, tengo dos hijos (niña y niño), estoy aprendiendo a tocar el ukelele, cosa que quería hacer desde que era un niño, salgo a correr todos los domingos, me encantan los room escapes (he diseñado 3, uno de ellos involucré a toda la oficina, CEO incluida en una invasión zombie), soy muy fan de los juegos de mesa y soy del Valencia C.F (qué se le va a hacer) aunque vivo en Viladecans (Barcelona)"
     },
     "relevantLinks": [
       {
@@ -21,12 +18,55 @@
       }
     ]
   },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "ES",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Drupal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/escuriola/"
+          "URL": "https://www.linkedin.com/in/escuriola/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "escuriola@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "615599945",
+          "countryCode": "+34"
         }
       ]
     },
@@ -40,7 +80,15 @@
           "name": "PHP",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Engineering Management"
       ]
-    }
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gustaría liderar algún equipo, dentro del mundo de la programación (estoy en una etapa en la que estoy disfrutando de programar y quiero seguir haciéndolo por lo menos de momento) y donde pueda seguir aprendiendo de mis compañeros, si el proyecto es Drupal estaré más que encantado, si es PHP daré todo lo que tengo y si es Kotlin (lenguaje que no lo he tocado nunca) en un par de semanas estaré como si lo llevara haciendo toda la vida. Me gustaría seguir siendo partícipe de reuniones de diseño de producto e interlocutor de producto con el equipo, que esté abierto a que pueda aportar ideas y metodología, en una empresa con un buen ambiente y cultura ágil (esto es un MUST). Me gustaría poder participar en la transformación ágil de la empresa o que tenga un equipo ágil maduro donde pueda desarrollar y poner en práctica mi lado agile.\n\n"
   }
 }
